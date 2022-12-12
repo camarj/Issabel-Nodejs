@@ -14,7 +14,7 @@
     "awry": "^7.2.0",
     "axios": "^0.19.2",
     "errorhandler": "^1.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^3.1.0",
     "morgan": "^1.9.1",
     "sweetalert": "^2.1.2"
